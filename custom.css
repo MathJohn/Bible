@@ -1,0 +1,116 @@
+.navbar{
+	font-family: 'Nunito', sans-serif;
+	font-weight: bold;
+}
+img{
+	opacity: 50%;
+}
+img:hover{
+	opacity: 100%;
+}
+body{
+	background-color: black;
+}
+#headjumbo{
+	color:white;
+	font-family: monospace;
+	background-image:url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/bggg.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: right;
+}
+#imgjumbo{
+	background-color: #5cbdb9;
+}
+#versejumbo{
+	background-color: #659DBD;
+}
+#versejumbo1{
+	background-color: #1A1A1D;
+}
+#versejumbo2{
+	background-color: #123C69;
+}
+#versejumb3{
+	background-color: #F13C20;
+}
+#versejumbo4{
+	background-color: #12343b;
+}
+#tablejumbo{
+	background-color: #feb300;
+}
+h2{
+	font-family: 'Nunito', sans-serif;
+}
+h4{
+	font-family: 'Nunito', sans-serif;
+	font-weight: bold;
+}
+#tablejumbo{
+	font-family: 'Inconsolata', monospace;
+}
+#bibleoverview{
+	position: sticky;
+}
+
+.parallax{
+	background-image: url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/new-testament/NT Overview.jpg");
+	height: 700px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+	border:2px solid;
+}
+.parallax1{
+	background-image: url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/new-testament/matthew.jpg");
+	height: 700px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+	border:2px solid;
+}
+.parallax2{
+	background-image: url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/new-testament/mark.jpg");
+	height: 700px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+	border:2px solid;
+}
+.parallax3{
+	background-image: url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/new-testament/john.jpg");
+	height: 700px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+	border:2px solid;
+}
+.parallax4{
+	background-image: url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/new-testament/luke.jpg");
+	height: 700px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+	border:2px solid;
+}
+.parallax5{
+	background-image: url("/Users/mj/Desktop/WebDevelopment/Bootstrap/Bible/images/new-testament/Revelation.jpg");
+	height: 700px;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	padding: 10px;
+	border:2px solid;
+}
